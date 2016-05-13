@@ -7,10 +7,10 @@ from url_scrap import get_replyid
 import json
 
 # Consumer keys and access tokens, used for OAuth
-consumer_key = 'WJr9poFMP9sK8qzFQpGIo3y3v'
-consumer_secret = 'sPnQ1ba6IgNn9rfSDK6huVjvvfdwxKjqpgyPPzXBnqvFGp7WQq'
-access_token = '206179764-mbdIGqkEJNYCK9evsxDYse5KX6iWRUMLiX3iPj58'
-access_token_secret = 'VJGdZwhzXRltGMUEmWkziL9CJYPnBFXyGhFTj9bpwKNpY'
+consumer_key = 
+consumer_secret = 
+access_token = 
+access_token_secret = 
 
 # OAuth process, using the keys and tokens
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
