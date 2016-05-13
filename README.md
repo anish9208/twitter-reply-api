@@ -14,3 +14,7 @@ array  of  15  dictionary  objects
 each  object contain following  information 
 
 key : paraent_tweet_text = text  of  the  tweet  among  those  15  top  tweet  for  that  query  
+
+key  tweet_id : id  for  that  tweet 
+
+key  reply  :  array  of  tweet  which  are replies  of respective  parent  tweet  
